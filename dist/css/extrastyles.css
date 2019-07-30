@@ -1,0 +1,67 @@
+div.gallery:hover
+{
+  border: 3px solid #2B5A6E;
+}
+
+#aboutme
+{
+  padding-top: 25px;
+  padding-bottom: 25px;
+  background-color: white;
+  color: #2B5A6E;
+}
+
+#aboutme: active
+{
+  color: white;
+}
+
+#foot
+{
+  background-color: #636094;
+  color: white;
+}
+
+#foot2
+{
+  background-color: white;
+  color: #2B5A6E;
+}
+
+#foot3
+{
+    background-color: white;
+    color: #2B5A6E;
+    border-top: 1px solid #2B5A6E;
+}
+
+
+html
+{
+  scroll-behavior: smooth;
+}
+
+figure.gallery
+{
+   margin: 15px;
+   border: 1px solid #ccc;
+   float: left;
+   padding: auto;
+ }
+
+.caption
+{
+  padding: 15px;
+  text-align: center;
+  border: 1px solid #ccc;
+  margin:5px;
+  background-color: white;
+  color: #2B5A6E;
+}
+
+
+
+#gallerysection
+{
+  background-color: #8F5A73;
+}
